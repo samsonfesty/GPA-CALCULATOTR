@@ -1,0 +1,73 @@
+body{
+    padding: 0%;
+    width:100%;
+    margin: 0%;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(55, 55, 233);
+}
+.form-control1{
+    margin-top: 10px;
+}
+#input1, #input2, #input3, #input4, #input5, #input6, #input7, #input8, #input9{
+    padding: 10px;
+    width: 23%;
+    outline:none;
+    border-radius: 5px;
+    border: none;
+}
+#unit1, #unit2, #unit3, #unit4, #unit5, #unit6, #unit7, #unit8, #unit9{
+    padding: 7px;
+    width: 12%;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+}
+#grade1, #grade2 ,#grade3, #grade4, #grade5, #grade6, #grade7, #grade8, #grade9{
+    padding: 7px;
+    width: 18%;
+    outline:none;
+    border-radius: 5px;
+    border: none;
+}
+.contain-all{
+    width: 100%;
+    height: 100vh;
+}
+.contain{
+    margin: 0 auto;
+    width: 50%;
+    height:650px ;
+    background-color: rgb(20, 20, 245);
+    margin-top: 20px;
+    box-shadow: 2px 2px 2px 2px solid gray;
+    border-radius: 10px;
+
+}
+.tittle{
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+.hold{
+    padding-left: 25%;
+    margin-top: -5%;
+}
+.btn{
+    margin-top: 10px;
+}
+#submit-btn{
+    padding: 7px;
+    background-color: rgb(1, 1, 196);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.output{
+    width:65%;
+    height: 100px;
+    margin-top: 20px;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+}
